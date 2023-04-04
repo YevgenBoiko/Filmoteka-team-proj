@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "filmoteka-team-proj",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Kostya-Romanovskyi.github.io/Filmoteka-team-proj",
+  "homepage": "https://YevgenBoiko.github.io/Filmoteka-team-proj",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Filmoteka-team-proj/"
