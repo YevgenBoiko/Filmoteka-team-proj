@@ -20,7 +20,7 @@ function onCloseFooterModal() {
   window.removeEventListener('keydown', onTargetKeydownFooter);
   document.body.style.overflow = '';
 }
-ascasc;
+
 function onBackdropCloseFooterModal(e) {
   if (e.currentTarget === e.target) {
     onCloseFooterModal();
